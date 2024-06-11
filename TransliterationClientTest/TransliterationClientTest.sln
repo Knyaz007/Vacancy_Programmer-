@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransliterationClientTest", "TransliterationClientTest\TransliterationClientTest.csproj", "{A4A89725-9931-477B-8ED3-DA401BAD9B77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransliterationApi", "..\TransliterationApi\TransliterationApi\TransliterationApi.csproj", "{075DEE29-FB7F-4ECA-9407-5411C0845C47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransliterationClient", "..\TransliterationClient\TransliterationClient\TransliterationClient.csproj", "{7AA8C03D-BE64-4FF8-9C31-A449B619F3BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransliterationConsole", "..\TransliterationConsole\TransliterationConsole\TransliterationConsole.csproj", "{F7123E64-6B90-4D28-A1E8-07F622D54DAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransliterationGrpcService", "..\TransliterationGrpcService\TransliterationGrpcService\TransliterationGrpcService.csproj", "{BDDF1CF6-B7DA-47C6-912A-E8B01A7D2F60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransliterationLib", "..\TransliterationLib\TransliterationLib\TransliterationLib.csproj", "{729C0414-8AB3-4206-90DF-6550F32508EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A89725-9931-477B-8ED3-DA401BAD9B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A89725-9931-477B-8ED3-DA401BAD9B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A89725-9931-477B-8ED3-DA401BAD9B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A89725-9931-477B-8ED3-DA401BAD9B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075DEE29-FB7F-4ECA-9407-5411C0845C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075DEE29-FB7F-4ECA-9407-5411C0845C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075DEE29-FB7F-4ECA-9407-5411C0845C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075DEE29-FB7F-4ECA-9407-5411C0845C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA8C03D-BE64-4FF8-9C31-A449B619F3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA8C03D-BE64-4FF8-9C31-A449B619F3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA8C03D-BE64-4FF8-9C31-A449B619F3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA8C03D-BE64-4FF8-9C31-A449B619F3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7123E64-6B90-4D28-A1E8-07F622D54DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7123E64-6B90-4D28-A1E8-07F622D54DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7123E64-6B90-4D28-A1E8-07F622D54DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7123E64-6B90-4D28-A1E8-07F622D54DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDF1CF6-B7DA-47C6-912A-E8B01A7D2F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDF1CF6-B7DA-47C6-912A-E8B01A7D2F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDF1CF6-B7DA-47C6-912A-E8B01A7D2F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDF1CF6-B7DA-47C6-912A-E8B01A7D2F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729C0414-8AB3-4206-90DF-6550F32508EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729C0414-8AB3-4206-90DF-6550F32508EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729C0414-8AB3-4206-90DF-6550F32508EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729C0414-8AB3-4206-90DF-6550F32508EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {998BDD84-2726-479D-9B71-B3E2D2FCEC69}
+	EndGlobalSection
+EndGlobal

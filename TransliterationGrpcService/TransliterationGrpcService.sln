@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransliterationGrpcService", "TransliterationGrpcService\TransliterationGrpcService.csproj", "{EE5C2C00-66E8-4255-A671-A33E38B9ED4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5C2C00-66E8-4255-A671-A33E38B9ED4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5C2C00-66E8-4255-A671-A33E38B9ED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5C2C00-66E8-4255-A671-A33E38B9ED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5C2C00-66E8-4255-A671-A33E38B9ED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1665C003-2DF8-487E-9EFA-FF8B9771830C}
+	EndGlobalSection
+EndGlobal

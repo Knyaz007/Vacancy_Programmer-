@@ -1,0 +1,18 @@
+﻿// TransliterationGrpcService/Protos/transliteration.proto
+syntax = "proto3";
+
+option csharp_namespace = "TransliterationGrpcService";
+
+package transliterationGrpc;
+
+service TransliterationOnProto {
+    rpc Transliterate (TransliterateRequest) returns (TransliterateResponse);
+}
+
+message TransliterateRequest {
+    string text = 1;
+}
+
+message TransliterateResponse {
+    string result = 1;
+}
