@@ -17,8 +17,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\NewPadge\TransliterationClient\TransliterationClient\TransliterationClient.csproj" />
     <ProjectReference Include="..\..\TransliterationClient\TransliterationClient\TransliterationClient.csproj" />
   </ItemGroup>
+
+  
 
 </Project>
